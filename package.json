@@ -1,6 +1,7 @@
 {
   "name": "sun",
   "version": "0.1.0",
+  "hompage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
